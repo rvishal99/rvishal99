@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Final Year CSE Student at National Institute of Technology Puducherry (NIT-PY) and highly skilled and passionate developer with a strong proficiency in C++ and Data Structures & Algorithms (DSA), as well as full-stack web development using the MERN stack. My hands-on experience includes developing web applications like EduQuest, a learning management system with secure user authentication and modern UI, and Vibrant, an online video calling platform powered by real-time communication with Socket.IO.
+I’m a Software Engineer @ Accenture and Computer Science graduate from National Institute of Technology Puducherry (NIT-PY), passionate about building scalable backend systems, distributed applications, and AI-powered solutions.
+
+I have experience with Node.js, Python, React.js, REST APIs, SQL/NoSQL databases, Apache Airflow, Redis, Docker, and AWS. My work includes building fault-tolerant data pipelines, real-time applications, scalable backend services, and Generative AI applications using LangGraph, LangChain, and RAG.
+
+I’m particularly interested in System Design, Distributed Systems, Data Engineering, Backend Development, and Generative AI, with a strong focus on problem solving and building reliable, production-ready systems.
 
 
 ## 🌐 Socials:
